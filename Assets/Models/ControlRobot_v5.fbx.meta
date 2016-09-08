@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 8a1b0cb42a06bd74b9b686ae3031cd53
+timeCreated: 1473331703
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackGlass
+    100002: Base_Mechanics
+    100004: BottomDisc
+    100006: //RootNode
+    100008: FirstTwoArms
+    100010: FirstTwoArms_UpperArm
+    100012: Head
+    100014: Head 1
+    100016: LowerArm
+    100018: LowerArmGear
+    100020: LowerGear
+    100022: LowerPlatformBase
+    100024: OBJ:Circle01
+    100026: OBJ:Circle02
+    100028: OBJ:Circle03
+    100030: pCylinder1
+    100032: polySurface49
+    100034: polySurface66
+    100036: UpperArm
+    400000: BackGlass
+    400002: Base_Mechanics
+    400004: BottomDisc
+    400006: //RootNode
+    400008: FirstTwoArms
+    400010: FirstTwoArms_UpperArm
+    400012: Head
+    400014: Head 1
+    400016: LowerArm
+    400018: LowerArmGear
+    400020: LowerGear
+    400022: LowerPlatformBase
+    400024: OBJ:Circle01
+    400026: OBJ:Circle02
+    400028: OBJ:Circle03
+    400030: pCylinder1
+    400032: polySurface49
+    400034: polySurface66
+    400036: UpperArm
+    2300000: BackGlass
+    2300002: Base_Mechanics
+    2300004: BottomDisc
+    2300006: //RootNode
+    2300008: FirstTwoArms_UpperArm
+    2300010: Head 1
+    2300012: LowerArm
+    2300014: LowerArmGear
+    2300016: LowerGear
+    2300018: OBJ:Circle01
+    2300020: OBJ:Circle02
+    2300022: OBJ:Circle03
+    2300024: pCylinder1
+    2300026: polySurface49
+    2300028: polySurface66
+    3300000: BackGlass
+    3300002: Base_Mechanics
+    3300004: BottomDisc
+    3300006: //RootNode
+    3300008: FirstTwoArms_UpperArm
+    3300010: Head 1
+    3300012: LowerArm
+    3300014: LowerArmGear
+    3300016: LowerGear
+    3300018: OBJ:Circle01
+    3300020: OBJ:Circle02
+    3300022: OBJ:Circle03
+    3300024: pCylinder1
+    3300026: polySurface49
+    3300028: polySurface66
+    4300000: EntireRobot
+    4300002: LowerGear
+    4300004: BackGlass
+    4300006: BottomDisc
+    4300008: Base_Mechanics
+    4300010: LowerArmGear
+    4300012: LowerArm
+    4300014: OBJ:Circle02
+    4300016: OBJ:Circle03
+    4300018: OBJ:Circle01
+    4300020: FirstTwoArms_UpperArm
+    4300022: polySurface66
+    4300024: pCylinder1
+    4300026: Head
+    4300028: polySurface49
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
